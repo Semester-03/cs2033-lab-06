@@ -1,0 +1,12 @@
+# Packet Tracer backups
+*.pkt.bak
+
+# Config backups
+*.bak
+*.log
+
+# OS & Editor artifacts
+.vscode/
+.idea/
+Thumbs.db
+*~
